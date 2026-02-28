@@ -1,8 +1,9 @@
 # 👋 About Me:
 
-Hi! This is Filipe. 
+Hi! This is Filipe.
 
 Currently focused on Engineering, Cloud, and Data. I hold AWS Solutions Architect and Cloud Practitioner certifications, and I am constantly improving my skills in automation, DevOps, and data analytics to build scalable solutions.
+
 ---
 
 ## 💻 Tech Stack:
