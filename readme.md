@@ -8,6 +8,7 @@ Currently focused on Engineering, Cloud, and Data. I hold AWS Solutions Architec
 
 ## 💻 Tech Stack:
 
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
