@@ -28,5 +28,5 @@ Atualmente focado em Engenharia, Nuvem e Dados. Tenho as certificações AWS Sol
 
 <p align="left">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=filipequeiroz-devops&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=filipequeiroz-devops&theme=dark" alt="Estatísticas de Streak do GitHub do Filipe" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=filipequeiroz-devops&theme=dark"/>
 </p>
