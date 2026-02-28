@@ -2,8 +2,7 @@
 
 Hi! This is Filipe. 
 
-Atualmente focado em Engenharia, Nuvem e Dados. Tenho as certificações AWS Solutions Architect e Cloud Practitioner, e estou constantemente aprimorando minhas habilidades em automação, DevOps e análise de dados para construir soluções escaláveis.
-
+Currently focused on Engineering, Cloud, and Data. I hold AWS Solutions Architect and Cloud Practitioner certifications, and I am constantly improving my skills in automation, DevOps, and data analytics to build scalable solutions.
 ---
 
 ## 💻 Tech Stack:
