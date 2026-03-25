@@ -31,5 +31,5 @@ Currently focused on Engineering, Cloud, and Data. I hold AWS Solutions Architec
 <p align="left">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=filipequeiroz-devops&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=filipequeiroz-devops&theme=dark" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipequeiroz-devops&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipequeiroz-devops&layout=compact&langs_count=7&theme=dark" />
 </p>
